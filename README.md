@@ -1,6 +1,6 @@
 # Hate Speech Analyser — Desktop App 🌍
 
-> **Built on top of [cop28-hate-speech](https://github.com/YOUR_USERNAME/cop28-hate-speech)** — a university research project investigating hate speech on X (Twitter) during the 28th UN Climate Change Conference (COP28, Dubai, Nov 30 – Dec 13, 2023). This repository takes that research pipeline and wraps it into a standalone desktop application for easier use and demonstration.
+> **Built on top of [cop28-hate-speech](https://github.com/onur-cubukcu/cop28-hate-speech)** — a university research project investigating hate speech on X (Twitter) during the 28th UN Climate Change Conference (COP28, Dubai, Nov 30 – Dec 13, 2023). This repository takes that research pipeline and wraps it into a standalone desktop application for easier use and demonstration.
 
 ---
 
