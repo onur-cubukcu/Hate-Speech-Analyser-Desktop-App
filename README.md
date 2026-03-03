@@ -121,13 +121,21 @@ This mirrors the logic of the original study's model (`ctoraman/hate-speech-bert
 ## Project Structure
 
 ```
-cop28-hate-speech-app/
+Hate-Speech-Analyser-Desktop-App/
 │
-├── app.py											# The entire application — run this
-├── sample_scraper_lite.json			# Real COP28 tweets for testing (scraper lite format)
-├── sample_scweet.json					# 206 real COP28 tweets for testing (scweet format)
-├── requirements.txt						# Python dependencies
-└── README.md									# This file
+├── .github/
+│   └── ISSUE_TEMPLATE/
+├── screenshots/
+├── app.py                          # The entire application — run this
+├── icon.ico                        # Desktop app icon
+├── sample_scraper_lite.json        # Real COP28 tweets for testing (scraper lite format)
+├── sample_scweet.json              # Real COP28 tweets for testing (scweet format)
+├── requirements.txt                # Python dependencies
+├── CHANGELOG.md                    # Version history
+├── CONTRIBUTING.md                 # Contribution guidelines
+├── .gitignore                      # Git ignore rules
+├── LICENSE                         # MIT license
+└── README.md                       # This file
 ```
 
 ---
