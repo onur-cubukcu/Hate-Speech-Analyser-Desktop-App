@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build Artifacts
+dist/
+build/
+*.egg-info/
+
+# PyInstaller Build Artifacts
+app.spec
+
+# Allow json files explicitly
+!*.json
