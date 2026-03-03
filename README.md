@@ -14,7 +14,7 @@ This app packages everything into a single native desktop window.
 
 ## Screenshot
 
-![COP28 Hate Speech Analyser](screenshots/app-screenshot.jpg)
+![COP28 Hate Speech Analyser](screenshots/screenshot.jpg)
 
 ---
 
